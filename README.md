@@ -1,1 +1,1 @@
-# Experimental-Excercise-
+# Experimental-Excercise- I have prepared this notebook only for excercise purpose. One can easily understand that how dataframe can be build in python, How does two dataframe can be merge, how does loc function can be used to identify certain value or values etc.
